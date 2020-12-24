@@ -16,6 +16,10 @@ JavaScript.
 * Math: [raingrams], [combinatorics]
 * [Crystal]: [digest-crc.cr], [ioctl.cr], [extractor.cr], [udis86.cr], [v4l2.cr]
 
+### Stats
+
+[![postmodern's github stats](https://github-readme-stats.vercel.app/api?username=postmodern)](https://github.com/anuraghazra/github-readme-stats)
+
 [Ruby]: https://www.ruby-lang.org/
 [Crystal]: https://www.ruby-lang.org/
 [Bash]: https://mywiki.wooledge.org/BashGuide
