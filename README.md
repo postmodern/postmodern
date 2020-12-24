@@ -20,6 +20,7 @@ JavaScript.
 
 <div>
   <img alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=postmodern&theme=dark" />
+  <img alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=dark" />
 </div>
 
 [Ruby]: https://www.ruby-lang.org/
