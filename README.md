@@ -18,7 +18,7 @@ JavaScript.
 
 ### Stats
 
-[![postmodern's github stats](https://github-readme-stats.vercel.app/api?username=postmodern)](https://github.com/anuraghazra/github-readme-stats)
+[![postmodern's github stats](https://github-readme-stats.vercel.app/api?username=postmodern&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [Ruby]: https://www.ruby-lang.org/
 [Crystal]: https://www.ruby-lang.org/
