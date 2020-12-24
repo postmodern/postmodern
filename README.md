@@ -14,6 +14,7 @@ JavaScript.
 * Util: [digest-crc], [ffi-hunspell], [ffi-extractor], [ffi-msgpack],
   [ffi-libc], [hexdump], [chars]
 * Math: [raingrams], [combinatorics]
+* [Crystal]: [digest-crc.cr], [ioctl.cr], [extractor.cr], [udis86.cr], [v4l2.cr]
 
 [Ruby]: https://www.ruby-lang.org/
 [Crystal]: https://www.ruby-lang.org/
@@ -52,3 +53,9 @@ JavaScript.
 
 [raingrams]: https://github.com/postmodern/raingrams#readme
 [combinatorics]: https://github.com/postmodern/combinatorics#readme
+
+[digest-crc.cr]: https://github.com/postmodern/digest-crc.cr#readme
+[ioctl.cr]: https://github.com/postmodern/ioctl.cr#readme
+[extractor.cr]: https://github.com/postmodern/extractor.cr#readme
+[udis86.cr]: https://github.com/postmodern/udis86.cr#readme
+[v4l2.cr]: https://github.com/postmodern/v4l2.cr#readme
