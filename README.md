@@ -19,7 +19,7 @@ JavaScript.
 ### Stats
 
 <div>
-  <img height="220em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=postmodern&theme=highcontrast" />
+  <img height="220em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=postmodern&theme=highcontrast&show_icons=true" />
   <img height="220em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=highcontrast" />
 </div>
 
