@@ -19,8 +19,8 @@ JavaScript.
 ### Stats
 
 <div>
-  <img height="240em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=postmodern&theme=dark" />
-  <img height="240em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=dark" />
+  <img height="200em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=postmodern&theme=dark" />
+  <img height="200em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=dark" />
 </div>
 
 [Ruby]: https://www.ruby-lang.org/
