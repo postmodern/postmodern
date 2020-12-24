@@ -18,9 +18,9 @@ JavaScript.
 
 ### Stats
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img style="flex: 50%;" height="220em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=postmodern&theme=chartreuse-dark&show_icons=true" />
-  <img style="flex: 50%;" height="220em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=chartreuse-dark" />
+<div>
+  <img align="left" style="margin: auto 1em;" height="220em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=postmodern&theme=chartreuse-dark&show_icons=true" />
+  <img align="right" style="margin: auto 1em;" height="220em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=chartreuse-dark" />
 </div>
 
 [Ruby]: https://www.ruby-lang.org/
