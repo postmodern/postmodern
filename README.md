@@ -3,6 +3,11 @@
 [Ruby], [Crystal], [Bash], and sometimes C, C++, Java, XML/XSLT, HTML/CSS,
 JavaScript.
 
+### Status
+
+Currently taking the rest of the year off to work on Open Source. See my
+[GitHub Sponsor] page for my plans/progress.
+
 ### Projects
 
 * Dev: [chruby], [ruby-install], [rubygems-tasks]
@@ -66,3 +71,5 @@ JavaScript.
 [extractor.cr]: https://github.com/postmodern/extractor.cr#readme
 [udis86.cr]: https://github.com/postmodern/udis86.cr#readme
 [v4l2.cr]: https://github.com/postmodern/v4l2.cr#readme
+
+[GitHub Sponsor]: https://github.com/sponsors/postmodern
