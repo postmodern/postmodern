@@ -28,8 +28,8 @@ Currently taking the rest of the year off to work on Open Source. See my
   <img align="right" height="220em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=chartreuse-dark" />
 </div>
 
-[Ruby]: https://www.ruby-lang.org/
-[Crystal]: https://www.ruby-lang.org/
+[Ruby]: https://www.ruby-lang.org
+[Crystal]: https://www.ruby-lang.org
 [Bash]: https://mywiki.wooledge.org/BashGuide
 
 [chruby]: https://github.com/postmodern/chruby#readme
@@ -38,7 +38,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 
 [bundler-audit]: https://github.com/postmodern/bundler-audit#readme
 [ruby-advisory-db]: https://github.com/rubysec/ruby-advisory-db#readme
-[ronin]: https://ronin-rb.dev/
+[ronin]: https://ronin-rb.dev
 [ruby-nmap]: https://github.com/sophsec/ruby-nmap#readme
 [ruby-sslyze]: https://github.com/trailofbits/ruby-sslyze#readme
 [gscraper]: https://github.com/postmodern/gscraper#readme
