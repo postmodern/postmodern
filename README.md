@@ -38,7 +38,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 
 [bundler-audit]: https://github.com/postmodern/bundler-audit#readme
 [ruby-advisory-db]: https://github.com/rubysec/ruby-advisory-db#readme
-[ronin]: https://ronin-ruby.github.io/
+[ronin]: https://ronin-rb.dev/
 [ruby-nmap]: https://github.com/sophsec/ruby-nmap#readme
 [ruby-sslyze]: https://github.com/trailofbits/ruby-sslyze#readme
 [gscraper]: https://github.com/postmodern/gscraper#readme
