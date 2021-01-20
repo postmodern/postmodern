@@ -13,8 +13,8 @@ Currently taking the rest of the year off to work on Open Source. See my
 * Dev: [chruby], [ruby-install], [rubygems-tasks]
 * Security: [bundler-audit], [ruby-advisory-db], [ronin], [ruby-nmap],
   [ruby-sslyze], [gscraper] \(old\), [ffi-pcap], [ffi-udis86],
-  [spf-query], [dkim-query], [http-security], [shodan-ruby] \(old\),
-  [wordlist] \(old\)
+  [spf-query], [dkim-query], [http-security], [cvelist.rb], [nvd-json_feeds.rb],
+  [shodan-ruby] \(old\), [wordlist] \(old\)
 * Web: [spidr], [nokogiri-diff], [net-http-server], [uri-query_params]
 * Util: [digest-crc], [ffi-hunspell], [ffi-extractor], [ffi-msgpack],
   [ffi-libc], [hexdump], [chars]
@@ -47,6 +47,8 @@ Currently taking the rest of the year off to work on Open Source. See my
 [spf-query]: https://github.com/trailofbits/spf-query#readme
 [dkim-query]: https://github.com/trailofbits/spf-query#readme
 [http-security]: https://github.com/trailofbits/http-security#readme
+[cvelist.rb]: https://github.com/postmodern/cvelist.rb#readme
+[nvd-json_feeds.rb]: https://github.com/postmodern/nvd-json_feeds.rb#readme
 [shodan-ruby]: https://github.com/postmodern/shodan-ruby#readme
 [wordlist]: https://github.com/sophsec/wordlist#readme
 
