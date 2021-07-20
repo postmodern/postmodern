@@ -16,8 +16,8 @@ Currently taking the rest of the year off to work on Open Source. See my
   [spf-query], [dkim-query], [http-security], [cvelist.rb], [nvd-json_feeds.rb],
   [shodan-ruby] \(old\), [wordlist] \(old\)
 * Web: [spidr], [nokogiri-diff], [net-http-server], [uri-query_params]
-* Util: [digest-crc], [ffi-hunspell], [ffi-extractor], [ffi-msgpack],
-  [ffi-libc], [hexdump.rb], [chars.rb]
+* Util: [chars.rb], [digest-crc], [ffi-hunspell], [ffi-extractor],
+  [ffi-msgpack], [ffi-libc], [hexdump.rb]
 * Math: [raingrams], [combinatorics]
 * [Crystal]: [chars.cr], [crystal-crc], [ioctl.cr], [extractor.cr], [udis86.cr], [v4l2.cr]
 
@@ -57,13 +57,13 @@ Currently taking the rest of the year off to work on Open Source. See my
 [net-http-server]: https://github.com/postmodern/net-http-server#readme
 [uri-query_params]: https://github.com/postmodern/uri-query_params#readme
 
+[chars.rb]: https://github.com/postmodern/chars.rb#readme
 [digest-crc]: https://github.com/postmodern/digest-crc#readme
 [ffi-hunspell]: https://github.com/postmodern/ffi-hunspell#readme
 [ffi-extractor]: https://github.com/postmodern/ffi-extractor#readme
 [ffi-msgpack]: https://github.com/postmodern/ffi-msgpack#readme
 [ffi-libc]: https://github.com/postmodern/ffi-libc#readme
 [hexdump.rb]: https://github.com/postmodern/hexdump.rb#readme
-[chars.rb]: https://github.com/postmodern/chars.rb#readme
 
 [raingrams]: https://github.com/postmodern/raingrams#readme
 [combinatorics]: https://github.com/postmodern/combinatorics#readme
