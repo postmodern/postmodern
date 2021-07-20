@@ -19,7 +19,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 * Util: [digest-crc], [ffi-hunspell], [ffi-extractor], [ffi-msgpack],
   [ffi-libc], [hexdump.rb], [chars.rb]
 * Math: [raingrams], [combinatorics]
-* [Crystal]: [digest-crc.cr], [ioctl.cr], [extractor.cr], [udis86.cr], [v4l2.cr]
+* [Crystal]: [chars.cr], [digest-crc.cr], [ioctl.cr], [extractor.cr], [udis86.cr], [v4l2.cr]
 
 ### Stats
 
@@ -68,6 +68,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 [raingrams]: https://github.com/postmodern/raingrams#readme
 [combinatorics]: https://github.com/postmodern/combinatorics#readme
 
+[chars.cr]: https://github.com/postmodern/chars.cr#readme
 [digest-crc.cr]: https://github.com/postmodern/digest-crc.cr#readme
 [ioctl.cr]: https://github.com/postmodern/ioctl.cr#readme
 [extractor.cr]: https://github.com/postmodern/extractor.cr#readme
