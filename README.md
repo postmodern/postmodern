@@ -11,8 +11,8 @@ Currently taking the rest of the year off to work on Open Source. See my
 ### Projects
 
 * Dev: [chruby], [ruby-install], [rubygems-tasks]
-* Security: [bundler-audit], [ruby-advisory-db], [ronin], [ruby-nmap],
-  [ruby-sslyze], [gscraper] \(old\), [ffi-pcap], [ffi-udis86],
+* Security: [bundler-audit], [ruby-advisory-db], [ronin], [ruby-masscan],
+  [ruby-nmap], [ruby-sslyze], [gscraper] \(old\), [ffi-pcap], [ffi-udis86],
   [spf-query], [dkim-query], [http-security], [cvelist.rb], [nvd-json_feeds.rb],
   [shodan-ruby] \(old\), [wordlist] \(old\)
 * Web: [spidr], [nokogiri-diff], [net-http-server], [uri-query_params]
@@ -39,6 +39,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 [bundler-audit]: https://github.com/postmodern/bundler-audit#readme
 [ruby-advisory-db]: https://github.com/rubysec/ruby-advisory-db#readme
 [ronin]: https://ronin-rb.dev
+[ruby-masscan]: https://github.com/postmodern/ruby-masscan#readme
 [ruby-nmap]: https://github.com/sophsec/ruby-nmap#readme
 [ruby-sslyze]: https://github.com/trailofbits/ruby-sslyze#readme
 [gscraper]: https://github.com/postmodern/gscraper#readme
