@@ -1,7 +1,7 @@
 ### Languages
 
-[Ruby], [Crystal], [Bash], and sometimes C, C++, Java, XML/XSLT, HTML/CSS,
-JavaScript.
+[Ruby], [Crystal], [Bash], and sometimes C, C++, Java, XML/XSLT, HTML5, CSS4,
+JavaScript (ES6).
 
 ### Status
 
