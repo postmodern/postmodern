@@ -1,3 +1,5 @@
+Software Engineer, Rubyist, Open Source Maintainer.
+
 ### Languages
 
 [Ruby], [Crystal], [Bash], and sometimes C, C++, Java, XML/XSLT, HTML5, CSS4,
