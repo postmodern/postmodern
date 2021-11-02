@@ -53,7 +53,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 [cvelist.rb]: https://github.com/postmodern/cvelist.rb#readme
 [nvd-json_feeds.rb]: https://github.com/postmodern/nvd-json_feeds.rb#readme
 [shodan-ruby]: https://github.com/postmodern/shodan-ruby#readme
-[wordlist.rb]: https://github.com/sophsec/wordlist.rb#readme
+[wordlist.rb]: https://github.com/postmodern/wordlist.rb#readme
 
 [spidr]: https://github.com/postmodern/spidr#readme
 [nokogiri-diff]: https://github.com/postmodern/nokogiri-diff#readme
