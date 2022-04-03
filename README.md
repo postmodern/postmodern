@@ -21,7 +21,8 @@ Currently taking the rest of the year off to work on Open Source. See my
 * Web: [spidr], [nokogiri-diff], [net-http-server], [uri-query_params]
 * Util: [chars.rb], [command_kit.rb], [command_mapper.rb],
   [command_mapper-gen.rb], [digest-crc], [ffi-hunspell], [ffi-extractor],
-  [ffi-msgpack], [ffi-libc], [hexdump.rb]
+  [ffi-msgpack], [hexdump.rb]
+* System: [ffi-libc]
 * Math: [raingrams], [combinatorics]
 * [Crystal]: [chars.cr], [crystal-crc], [ioctl.cr], [extractor.cr], [udis86.cr], [v4l2.cr]
 
@@ -73,8 +74,9 @@ Currently taking the rest of the year off to work on Open Source. See my
 [ffi-hunspell]: https://github.com/postmodern/ffi-hunspell#readme
 [ffi-extractor]: https://github.com/postmodern/ffi-extractor#readme
 [ffi-msgpack]: https://github.com/postmodern/ffi-msgpack#readme
-[ffi-libc]: https://github.com/postmodern/ffi-libc#readme
 [hexdump.rb]: https://github.com/postmodern/hexdump.rb#readme
+
+[ffi-libc]: https://github.com/postmodern/ffi-libc#readme
 
 [raingrams]: https://github.com/postmodern/raingrams#readme
 [combinatorics]: https://github.com/postmodern/combinatorics#readme
