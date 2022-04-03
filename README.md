@@ -14,9 +14,10 @@ Currently taking the rest of the year off to work on Open Source. See my
 
 * Dev: [chruby], [ruby-install], [rubygems-tasks]
 * Security: [bundler-audit], [ruby-advisory-db], [ronin], [ruby-amass],
-  [ruby-masscan], [ruby-nikto], [ruby-nmap], [ruby-sslyze], [gscraper] \(old\),
-  [ffi-pcap], [ffi-udis86], [spf-query], [dkim-query], [http-security],
-  [cvelist.rb], [nvd-json_feeds.rb], [shodan-ruby] \(old\), [wordlist.rb]
+  [ruby-masscan], [ruby-ncrack], [ruby-nikto], [ruby-nmap], [ruby-sslyze],
+  [gscraper] \(old\), [ffi-pcap], [ffi-udis86], [spf-query], [dkim-query],
+  [http-security], [cvelist.rb], [nvd-json_feeds.rb], [shodan-ruby] \(old\),
+  [wordlist.rb]
 * Web: [spidr], [nokogiri-diff], [net-http-server], [uri-query_params]
 * Util: [chars.rb], [command_kit.rb], [command_mapper.rb],
   [command_mapper-gen.rb], [digest-crc], [ffi-hunspell], [ffi-extractor],
@@ -44,6 +45,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 [ronin]: https://ronin-rb.dev
 [ruby-masscan]: https://github.com/postmodern/ruby-masscan#readme
 [ruby-amass]: https://github.com/postmodern/ruby-amass#readme
+[ruby-ncrack]: https://github.com/postmodern/ruby-ncrack#readme
 [ruby-nikto]: https://github.com/postmodern/ruby-nikto#readme
 [ruby-nmap]: https://github.com/postmodern/ruby-nmap#readme
 [ruby-sslyze]: https://github.com/trailofbits/ruby-sslyze#readme
