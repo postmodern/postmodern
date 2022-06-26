@@ -33,7 +33,7 @@ Currently taking the rest of the year off to work on Open Source. See my
 </div>
 
 [Ruby]: https://www.ruby-lang.org
-[Crystal]: https://www.ruby-lang.org
+[Crystal]: https://crystal-lang.org
 [Bash]: https://mywiki.wooledge.org/BashGuide
 
 [chruby]: https://github.com/postmodern/chruby#readme
