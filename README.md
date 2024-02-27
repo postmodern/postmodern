@@ -33,7 +33,7 @@ Currently taking the rest of the year off to work on Open Source. See my
   <img align="right" height="215em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postmodern&theme=chartreuse-dark" />
 </div>
 
-[Ruby]: https://www.ruby-lang.org
+[Ruby]: https://ruby-lang.org
 [Crystal]: https://crystal-lang.org
 [Bash]: https://mywiki.wooledge.org/BashGuide
 
